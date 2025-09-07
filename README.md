@@ -1,3 +1,5 @@
+<img width="612" height="252" alt="image" src="https://github.com/user-attachments/assets/19c23b86-3108-4248-a04c-e1df44369a75" />
+
 **Goal**: Analyzed 125-store retail chain (KES 61M revenue) to identify KES 12-18M annual recovery opportunity through regional optimization and inventory rebalancing.
 
 ## Problem
