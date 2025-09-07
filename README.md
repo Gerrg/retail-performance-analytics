@@ -27,4 +27,3 @@ Built SQL database and Power BI dashboards revealing:
 - `/outputs/` - Strategic recommendations
 
 ---
-*Demonstrates senior-level retail analytics: translating complex store data into executive strategy for multi-regional optimization.*
