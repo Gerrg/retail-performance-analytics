@@ -2,7 +2,7 @@
 
 ## Problem
 Declining profit margins (52% → 43%) with massive regional performance gaps (43% to 121% of targets) across Kenyan retail network.
-<img width="1145" height="482" alt="image" src="https://github.com/user-attachments/assets/48793dd3-9986-466b-82e2-f9cf61256987" />
+<img width="1257" height="588" alt="image" src="https://github.com/user-attachments/assets/61ddedb4-ccb6-425c-8edd-32c41a157575" />
 
 ## Solution
 Built SQL database and Power BI dashboards revealing:
