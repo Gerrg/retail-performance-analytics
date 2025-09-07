@@ -1,8 +1,9 @@
+<img width="1257" height="588" alt="image" src="https://github.com/user-attachments/assets/61ddedb4-ccb6-425c-8edd-32c41a157575" />
+
 **Goal**: Analyzed 125-store retail chain (KES 61M revenue) to identify KES 12-18M annual recovery opportunity through regional optimization and inventory rebalancing.
 
 ## Problem
 Declining profit margins (52% → 43%) with massive regional performance gaps (43% to 121% of targets) across Kenyan retail network.
-<img width="1257" height="588" alt="image" src="https://github.com/user-attachments/assets/61ddedb4-ccb6-425c-8edd-32c41a157575" />
 
 ## Solution
 Built SQL database and Power BI dashboards revealing:
