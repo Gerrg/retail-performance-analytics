@@ -1,5 +1,3 @@
-<img width="1257" height="588" alt="image" src="https://github.com/user-attachments/assets/61ddedb4-ccb6-425c-8edd-32c41a157575" />
-
 **Goal**: Analyzed 125-store retail chain (KES 61M revenue) to identify KES 12-18M annual recovery opportunity through regional optimization and inventory rebalancing.
 
 ## Problem
@@ -10,6 +8,7 @@ Built SQL database and Power BI dashboards revealing:
 - **Regional Winners**: Nairobi West (121% target) vs Liquidation (43% target)
 - **Category Opportunity**: Ladies products (117% performance, 51% margins) outperforming Men's (91%, 32%)
 - **Operational Gaps**: Weekend sales (13.2M) vs weekday lows (7.2M)
+<img width="1257" height="588" alt="image" src="https://github.com/user-attachments/assets/61ddedb4-ccb6-425c-8edd-32c41a157575" />
 
 ## Tools Used
 - **SQL Server**: Store performance database
